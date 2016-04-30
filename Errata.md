@@ -29,9 +29,9 @@ from html import escape
 
 です。
 
-#### method#{im_func,__func__}
+#### method#{im_func,\_\_func\_\_}
 
-「例えば先ほどの「im_func」であれば「__func__」になっています」に続くスニペットに誤りがありました。
+「例えば先ほどの「im_func」であれば「\_\_func\_\_」になっています」に続くスニペットに誤りがありました。
 
 ```
 >>> MyClass.greet.im_func
